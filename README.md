@@ -27,7 +27,7 @@ If you want to add this easter egg to your website, follow instructions :
 </div>
 ```        
 
-</ins>Sound script :</ins> 
+<ins>Sound script :</ins> 
 ```
 <script>
      var sound = new Audio();
