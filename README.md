@@ -35,4 +35,4 @@ If you want to add this easter egg to your website, follow instructions :
 </script>
 ```
 
-But if you just want to test it out without adding it to your website, click [here](amogus.tiiny.site)
+But if you just want to test it out without adding it to your website, click [here](https://amogus.tiiny.site/)
