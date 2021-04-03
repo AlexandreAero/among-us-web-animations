@@ -1,5 +1,7 @@
 # Among-Us-Web-Animations
- 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/alexandreaero/Among-Us-Web-Animations)
+
 ### Some little Among Us "easter egg" animations to add to your webiste
 
 ## Screenshots 
