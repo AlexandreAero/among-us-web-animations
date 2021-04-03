@@ -34,3 +34,6 @@ If you want to add this easter egg to your website, follow instructions :
      sound.src = "amogus.mp3";
 </script>
 ```
+
+But if you just want to test it out without adding it to your website, download this files :   
+
