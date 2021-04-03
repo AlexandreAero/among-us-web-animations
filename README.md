@@ -35,4 +35,4 @@ If you want to add this easter egg to your website, follow instructions :
 </script>
 ```
 
-But if you just want to test it out without adding it to your website, head to this [file](https://raw.githubusercontent.com/AlexandreAero/Among-Us-Web-Animations/main/animation.html) then download it and open with with Google
+But if you just want to test it out without adding it to your website, head to this [file](https://raw.githubusercontent.com/AlexandreAero/Among-Us-Web-Animations/main/animation.html) with this other [file](https://github.com/AlexandreAero/Among-Us-Web-Animations/blob/main/animation.css)
