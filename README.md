@@ -35,4 +35,10 @@ If you want to add this easter egg to your website, follow instructions :
 </script>
 ```
 
-But if you just want to test it out without adding it to your website, head to this [file](https://raw.githubusercontent.com/AlexandreAero/Among-Us-Web-Animations/main/animation.html) with this other [file](https://github.com/AlexandreAero/Among-Us-Web-Animations/blob/main/animation.css)
+But if you just want to test it out without adding it to your website, download these files :   
+
+[file 1](https://raw.githubusercontent.com/AlexandreAero/Among-Us-Web-Animations/main/animation.html)    
+[file 2](https://raw.githubusercontent.com/AlexandreAero/Among-Us-Web-Animations/main/animation.css)    
+[file 3](https://github.com/AlexandreAero/Among-Us-Web-Animations/blob/main/amogus.mp3)   
+
+Then download them
