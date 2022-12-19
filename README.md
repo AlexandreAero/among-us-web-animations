@@ -11,9 +11,6 @@
 ## Screenshot 
 ![image](https://user-images.githubusercontent.com/66020831/113479556-1563de00-9490-11eb-92fe-ac680ecac059.png)
 
-## Framework 
-Made with ``Visual Studio Code``, ``HTML`` and ``CSS``
-
 ## How to use 
 If you want to add this easter egg to your website, follow instructions :
 
