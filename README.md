@@ -11,23 +11,23 @@
 ## Screenshot 
 ![image](https://user-images.githubusercontent.com/66020831/113479556-1563de00-9490-11eb-92fe-ac680ecac059.png)
 
-## How to use 
+## Usage
 If you want to add this easter egg to your website, follow instructions :
 
-<ins>Style sheet reference :</ins>   
-```
+*Style sheet reference:*
+```html
 <link rel="stylesheet" href="animation.css">
 ```  
 
-<ins>In body, image div :</ins>   
-```
+*In body, image div:*  
+```html
 <div class="amongusimg" onmousedown=sound.play()>
      <img src="https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-among-us-21.png" width="250" height="250"> 
 </div>
 ```        
 
-<ins>Sound script :</ins> 
-```
+*Sound script:*
+```html
 <script>
      var sound = new Audio();
      sound.src = "amogus.mp3";
