@@ -21,7 +21,7 @@ If you want to add this easter egg to your website, follow instructions :
 
 *In body, image div:*  
 ```html
-<div class="amongusimg" onmousedown=sound.play()>
+<div class="amongus-img" onmousedown=sound.play()>
      <img src="https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-among-us-21.png" width="250" height="250"> 
 </div>
 ```        
@@ -29,7 +29,7 @@ If you want to add this easter egg to your website, follow instructions :
 *Sound script:*
 ```html
 <script>
-     var sound = new Audio();
+     const sound = new Audio();
      sound.src = "amogus.mp3";
 </script>
 ```
