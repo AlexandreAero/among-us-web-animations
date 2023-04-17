@@ -16,7 +16,7 @@ If you want to add this easter egg to your website, follow instructions :
 
 *Style sheet reference:*
 ```html
-<link rel="stylesheet" href="animation.css">
+<link rel="stylesheet" href="style.css">
 ```  
 
 *In body, image div:*  
