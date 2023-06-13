@@ -6,13 +6,13 @@
 
 ![tenor](https://user-images.githubusercontent.com/66020831/114184307-fa3c1700-9944-11eb-9d0f-2dfa4d5317df.gif)
 
-### Some little Among Us "easter egg" animations to add to your webiste
+### Some little Among Us "easter egg" animations to add to your website
 
 ## Screenshot 
 ![image](https://user-images.githubusercontent.com/66020831/113479556-1563de00-9490-11eb-92fe-ac680ecac059.png)
 
 ## Usage
-If you want to add this easter egg to your website, follow instructions :
+If you want to add this easter egg to your website, follow the instructions:
 
 *Style sheet reference:*
 ```html
