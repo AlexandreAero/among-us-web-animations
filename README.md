@@ -1,4 +1,4 @@
-# Among-Us-Web-Animations
+<h1 align="center">among-us-web-animations</h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/alexandreaero/Among-Us-Web-Animations)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexandreaero/Among-Us-Web-Animations)
