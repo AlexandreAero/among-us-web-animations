@@ -14,19 +14,19 @@
 ## Usage
 If you want to add this easter egg to your website, follow the instructions:
 
-*Style sheet reference:*
+1. Style sheet reference
 ```html
 <link rel="stylesheet" href="style.css">
 ```  
 
-*In body, image div:*  
+2. In body, image div
 ```html
 <div class="amongus-img-1" onmousedown=sound.play()>
      <img src="https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-among-us-21.png" width="250" height="250"> 
 </div>
 ```        
 
-*Sound script:*
+3. Sound script
 ```html
 <script>
      const sound = new Audio();
